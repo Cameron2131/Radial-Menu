@@ -1,4 +1,4 @@
-# Radial-Menu
+# [FREE] Ox Lib Radial Menu For QBCore
 
 ```
 How To Install:
